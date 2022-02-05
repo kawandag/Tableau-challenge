@@ -16,12 +16,20 @@ As the image below shows, there were more riders in summer than winter months wi
 
   
   6. What were the top 10 stations in the city for starting a journey? (Based on data, why do you hypothesize these are the top locations?)
-  
+
+
+
+  ![Screenshot 2022-02-05 144204](https://user-images.githubusercontent.com/90159408/152656498-8827a715-852c-4ad1-a1f1-9e15c54eb170.png)
+
   7. What were the top 10 stations in the city for ending a journey? (Based on data, why?)
 
   8. What were the bottom 10 stations in the city for starting a journey? (Based on data, why?)
 
   9. What are the bottom 10 stations in the city for ending a journey (Based on data, why?)
+
+![Maps](https://user-images.githubusercontent.com/90159408/152656328-4cda6648-3683-4a4b-b037-0d9b6f325d3a.png)
+
+
 
   10.How has the proportion of short-term customers and annual subscribers changed?
 
