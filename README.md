@@ -7,11 +7,12 @@ Data was extracted from  Citi Bike Data webpage and combined into a one csv file
 
 
 # Data Visualizations and Analysis
-
-    During the year of 2021, there were a total of 644,356 records. There was a increase in riders during the summer and fall months; however dropped towards end of the year. 
-  As the image below shows, there were more riders in summer than winter months with a majority of riders preferred evening hours. 
+During the year of 2021, there were a total of 644,356 records. There was a increase in riders during the summer and fall months; however dropped towards end of the year. 
+As the image below shows, there were more riders in summer than winter months with a majority of riders preferred evening hours. 
  
-<image>!
+
+![Summer](https://user-images.githubusercontent.com/90159408/152656250-6e67cbad-703a-47d0-af64-8de412114466.png)
+![Winter](https://user-images.githubusercontent.com/90159408/152656254-bbbc0c40-4e85-44e7-adab-e9a95eea0f0a.png)
 
   
   6. What were the top 10 stations in the city for starting a journey? (Based on data, why do you hypothesize these are the top locations?)
@@ -25,7 +26,8 @@ Data was extracted from  Citi Bike Data webpage and combined into a one csv file
   10.How has the proportion of short-term customers and annual subscribers changed?
 
 # Limitations
-Thechosen timeframe did not have data available for certain categories such as age, gender and trip duration in order to be able to analyze and provide answers to certain questions that may be essential in discovering other viable phenomena.
+    
+The chosen timeframe did not have data available for certain categories such as age, gender and trip duration in order to be able to analyze and provide answers to certain questions that may be essential in discovering other viable phenomena.
 
 
 
