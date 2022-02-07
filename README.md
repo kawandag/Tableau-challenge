@@ -17,6 +17,9 @@ As the image below shows, there were more riders in summer than winter months wi
   
   * What were the top 10 stations in the city for starting a journey? (Based on data, why do you hypothesize these are the top locations?)
 
+![Screenshot 2022-02-05 144204](https://user-images.githubusercontent.com/90159408/152709148-4cdb8280-0bd1-4b94-b5b8-2f8d229dba4d.png)
+
+
 Below are maps of both starting and ending points that provide attractions relative to the locations.
 
 ![Maps](https://user-images.githubusercontent.com/90159408/152707624-582c673b-20cb-4bd3-b990-08042aee080e.png)
@@ -35,6 +38,9 @@ Below are maps of both starting and ending points that provide attractions relat
   * How has the proportion of short-term customers and annual subscribers changed?
   
 ![participants](https://user-images.githubusercontent.com/90159408/152707554-7128a4d6-5fab-4b88-a2f8-92da6be0da9b.png)
+
+![percentage](https://user-images.githubusercontent.com/90159408/152709085-47521ff7-9914-43f3-b4d1-340ef8f02eaa.png)
+
 
 # Limitations
     
