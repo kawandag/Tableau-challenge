@@ -49,6 +49,7 @@ The chosen timeframe did not have data available for certain categories such as 
 To view full analysis, please select link provided above.
 
 
-
+# Copyright
+# © 2022 Kawanda Gray, Data Science and Analytics Bootcamp.
 
 
