@@ -3,35 +3,36 @@
 
 
 # Data Extraction and Cleaning
-Data was extracted from  Citi Bike Data webpage and combined into a one csv file. In order to complete this, January columns were renamed, null values and columns were dropped and data was merged.
+Data was extracted from Citi Bike Data webpage for year of 2021 and combined into a one csv file. In order to complete this, January columns were renamed, null values and columns were dropped and data was merged.
 
 
 # Data Visualizations and Analysis
 During the year of 2021, there were a total of 644,356 records. There was a increase in riders during the summer and fall months; however dropped towards end of the year. 
-As the image below shows, there were more riders in summer than winter months with a majority of riders preferred evening hours. 
+As the image below shows, there were more riders in summer than winter months with a majority of riders preferring evening hours. 
  
 
 ![Summer](https://user-images.githubusercontent.com/90159408/152656250-6e67cbad-703a-47d0-af64-8de412114466.png)
 ![Winter](https://user-images.githubusercontent.com/90159408/152656254-bbbc0c40-4e85-44e7-adab-e9a95eea0f0a.png)
 
   
-  6. What were the top 10 stations in the city for starting a journey? (Based on data, why do you hypothesize these are the top locations?)
+  * What were the top 10 stations in the city for starting a journey? (Based on data, why do you hypothesize these are the top locations?)
 
+Below are maps of both starting and ending points that provide attractions relative to the locations.
 
 ![Maps](https://user-images.githubusercontent.com/90159408/152707624-582c673b-20cb-4bd3-b990-08042aee080e.png)
 
 
 
-  7. What were the top 10 stations in the city for ending a journey? (Based on data, why?)
+  * What were the top 10 stations in the city for ending a journey? (Based on data, why?)
 
-  8. What were the bottom 10 stations in the city for starting a journey? (Based on data, why?)
+  * What were the bottom 10 stations in the city for starting a journey? (Based on data, why?)
 
-  9. What are the bottom 10 stations in the city for ending a journey (Based on data, why?)
+  * What are the bottom 10 stations in the city for ending a journey (Based on data, why?)
 
 ![points](https://user-images.githubusercontent.com/90159408/152707459-2d85548e-1d5b-4dae-8470-886809a09885.png)
 
 
-  10.How has the proportion of short-term customers and annual subscribers changed?
+  * How has the proportion of short-term customers and annual subscribers changed?
   
 ![participants](https://user-images.githubusercontent.com/90159408/152707554-7128a4d6-5fab-4b88-a2f8-92da6be0da9b.png)
 
