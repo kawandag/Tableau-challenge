@@ -46,7 +46,7 @@ Below are maps of both starting and ending points that provide attractions relat
     
 The chosen timeframe did not have data available for certain categories such as age, gender and trip duration in order to be able to analyze and provide answers to certain questions that may be essential in discovering other viable phenomena.
 
-
+To view full analysis, please select link provided above.
 
 
 
