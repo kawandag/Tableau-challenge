@@ -17,8 +17,8 @@ As the image below shows, there were more riders in summer than winter months wi
   
   6. What were the top 10 stations in the city for starting a journey? (Based on data, why do you hypothesize these are the top locations?)
 
-![Screenshot 2022-02-05 144204](https://user-images.githubusercontent.com/90159408/152707472-4c922d05-2bb4-47b5-81bd-c13a5d469b22.png)
 
+![Maps](https://user-images.githubusercontent.com/90159408/152707624-582c673b-20cb-4bd3-b990-08042aee080e.png)
 
 
 
